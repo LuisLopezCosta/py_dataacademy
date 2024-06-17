@@ -1,0 +1,7 @@
+pyodbc
+pandas
+pypika
+python-dotenv
+openpyxl
+requests
+beautifulsoup4
